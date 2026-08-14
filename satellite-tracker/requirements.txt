@@ -1,0 +1,8 @@
+requests>=2.28.0
+pyephem>=3.7.7.1
+pyserial>=3.5
+pyyaml>=6.0
+rich>=13.0.0
+PyQt5>=5.15.0
+matplotlib>=3.5.0
+numpy>=1.21.0

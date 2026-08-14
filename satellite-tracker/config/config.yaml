@@ -1,0 +1,25 @@
+cache:
+  directory: tle_cache
+  max_age_days: 7
+hardware:
+  arduino:
+    baud_rate: 115200
+    enabled: false
+    port: null
+  rotctld:
+    enabled: false
+    host: 127.0.0.1
+    port: 4533
+observer:
+  altitude: 100
+  latitude: '44.7739'
+  longitude: '-76.6872'
+tracking:
+  gear_ratio_azimuth: 3.0
+  position_read_interval: 2.5
+  tle_update_minutes: 1
+  tracking_interval: 2.5
+ui:
+  refresh_rate: 10
+  show_debug: false
+  theme: dark
